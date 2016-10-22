@@ -1,0 +1,2 @@
+# Eclectc
+Exploration of possibilities
